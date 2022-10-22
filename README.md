@@ -1,2 +1,1 @@
-PowerBI_Project
-This is the Project file name
+Project file name is PowerBI_Project
